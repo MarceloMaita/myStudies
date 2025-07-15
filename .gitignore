@@ -1,0 +1,11 @@
+# Ignore executables
+five_digits_sum
+is_prime
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore other common build artifacts
+*.o
+*.out
+*.exe
