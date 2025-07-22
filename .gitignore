@@ -1,6 +1,7 @@
 # Ignore executables
 five_digits_sum
 is_prime
+fibonacci
 
 # Ignore VS Code settings
 .vscode/
